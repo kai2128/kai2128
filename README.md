@@ -1,9 +1,7 @@
 ## About me
-- Hi, I am kai en
 - Location: Malaysia
 - Educational experience:
   - Undergraduate(2019-2022): Software Engineering, Universiti Tunku Abdul Rahman
-- email: kaienyeo225@gmail.com
 - portfolio: <a href="https://portfolio-kai2128.vercel.app/">portfolio</a>
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,vue,react)](https://skillicons.dev)
